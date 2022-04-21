@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sephora-test-347812",
+  "private_key_id": "5fd519c10f6d2f6ffcf5c2535ad71b94b53f2f47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1KEcM2nLy+ahN\nb09QUVWUHKBaWESMikMWk3zHSljP00iXKGyY40PtJW1it+D9IXlNekEUQqWdJiqt\nFj+lkI6fPYLvFPDjArFVuGMfS5nqj6/d2n2ca/c5xP/Kpl9+amopO7NzAMYNhpgI\n3Mk3WOblVb2zeF/enBYM2N4jMHYf7eSuEKk+90YVWq8IG9bgjFA5A61xLN3t7Jls\ngaSQsBijF4piZ5pmbl+Owaj+B88OrN2fQXeFrAynkLJGBw+fx4H110Bc05+cWkiQ\nstU1JKvMnq2homTyKjPOqf/h2vr/semLvXiyjvTAj7W0p66GPakRjRs8KKDUzbN9\nYix5tQORAgMBAAECggEABrZ934OOw+MtceUghsTky26+IGrp611KPCFt+8KNBPJ6\n26MTVx0AzN5YrdJLg4XEhXL0y2fm1CpwZWaQKDXxmwQAAJUBkh/s61TAU44NH4yA\ng1OP2QaFLD5ZDizZGAmgcnO0ZBwQurqUkqt/x03DjJb/RxG8V7bn+ETnAl3O2sL5\nYDhsA+ggCDK27VZxNrEeXYUw4LoQJHrTfPZmwfwxuQWxxLCDsVBpLLHGD7gfGpp1\nJfdMFJWNrwitzt+ihWkKltQe1U0BbIb7nWtw/F5suWmalAIrmsQT5gr/q+eiLYH6\ne4/KUCRtzHINxxm5xdIlvz6bs1xotl2K4zIy5M7meQKBgQD1X+TkNsstEiP/bhko\n0VGz9JqiFIH/YaYgl9SSL4s1Wp/RaxJ/TC0o5VJdKCU8WbzBcx1jXi9zjzwGMCGi\nzGvp1T0llYYLJPKhdG1ZOvnXPGMR67lZ/9LTnPD78iPcOOIJ7/nc0gjAxFKZRzjW\nG1FdE7k5ZWw5Qzja0AJDZJGLnQKBgQC9AIBkmGrucY6Wt9tNU8QruONInd9ussFI\noDDsLbTqUrOeyGSdQVpNrxR0UMeNhIvIAbeaGKlsfs74WP+vO3LJGzQmwFzXZsJY\n5yLrDUG/jOCwXC0TffGvjxQSOvMKNLDG7+i6ZtmXqxW3Dgg8xIi5r+N9RrpJ3Y8F\nnI1IN//3hQKBgQCc6eQAJSItAmrOz+N6/NDY2dWBTMgNPq70LOQdUBYf2oJVc7ly\neo5ulqfjNucI/wH8W9cxUmvZ5IEoG+OGrl9cO6dMv5/mxIv8v+2loFdhUxavwSTY\n7wYtmTFqjOBt1lqGrFYG5rH+RA3mQ2uPUAzqDtDmaXuZ6ukS1O59lnSU6QKBgBS/\nK1jfik1mVbqhsAcK/Ou3vetIuTATmzf3racfVU6riWASq0i/1cPVRi+GdoFIXXe1\nCIx3zJFGUj3ctyRrKCx/OfhPAWH7u7W6mZCnweHe+wMg+ym6l38n+5IMuoUSR51u\n1GMxywzlENspRSo2gLOxZQ1paCWXlo2NI80bqJNpAoGBAOQWSTbmCklcaziuZmAh\nyJn5djsFqsvGQDE/sjti9HYLStQAN9RqYvt05CNVnbjSh8TFCisvY/GlqiCmpzGi\nlLUen/afWttRU4KSySdngo2+HL7I0Jnpzf8DVgHiLYf/xX53dlb+T1VF+WsSGB1u\n6FcDgihj06ap9Kq9DrbmVgZ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "sephora@sephora-test-347812.iam.gserviceaccount.com",
+  "client_id": "116355160557694230729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sephora%40sephora-test-347812.iam.gserviceaccount.com"
+}

@@ -1,0 +1,47 @@
+2022-04-21 21:09:19,177 - input tasks received
+2022-04-21 21:09:19,177 - DAG creation process started
+2022-04-21 21:09:19,177 - DAG creation successful
+2022-04-21 21:09:19,177 - Grouping of parallel tasks process started
+2022-04-21 21:09:19,178 - DAG with parallel tasks created
+2022-04-21 21:09:19,178 - List of parallel tasks(1) :['tmp/item_purchase_prices.sql', 'tmp/variant_images.sql', 'tmp/inventory_items.sql', 'tmp/product_images.sql', 'tmp/product_categories.sql']
+2022-04-21 21:09:19,178 - List of parallel tasks(2) :['tmp/variants.sql', 'tmp/products.sql']
+2022-04-21 21:09:19,178 - List of parallel tasks(3) :['final/products.sql']
+2022-04-21 21:09:19,433 - Task execution started for tmp/item_purchase_prices.sql
+2022-04-21 21:09:19,451 - Task execution started for tmp/variant_images.sql
+2022-04-21 21:09:19,483 - Task execution started for tmp/inventory_items.sql
+2022-04-21 21:09:19,487 - Task execution started for tmp/product_images.sql
+2022-04-21 21:09:19,499 - Task execution started for tmp/product_categories.sql
+2022-04-21 21:09:29,057 - Task execution ended for tmp/product_images.sql
+2022-04-21 21:09:32,331 - Task execution ended for tmp/inventory_items.sql
+2022-04-21 21:09:34,049 - Task execution ended for tmp/item_purchase_prices.sql
+2022-04-21 21:09:35,306 - Task execution ended for tmp/product_categories.sql
+2022-04-21 21:09:42,344 - Task execution ended for tmp/variant_images.sql
+2022-04-21 21:09:42,636 - Task execution started for tmp/variants.sql
+2022-04-21 21:09:42,652 - Task execution started for tmp/products.sql
+2022-04-21 21:09:54,873 - Task execution ended for tmp/products.sql
+2022-04-21 21:09:57,726 - Task execution ended for tmp/variants.sql
+2022-04-21 21:09:57,901 - Task execution started for final/products.sql
+2022-04-21 21:10:09,956 - Task execution ended for final/products.sql
+2022-04-21 21:11:14,610 - API call initiated
+2022-04-21 21:11:14,611 - DAG creation successful
+2022-04-21 21:11:14,611 - DAG with parallel tasks created
+2022-04-21 21:11:14,611 - List of parallel tasks(1) :['tmp/item_purchase_prices.sql', 'tmp/variant_images.sql', 'tmp/inventory_items.sql', 'tmp/product_images.sql', 'tmp/product_categories.sql']
+2022-04-21 21:11:14,611 - List of parallel tasks(2) :['tmp/variants.sql', 'tmp/products.sql']
+2022-04-21 21:11:14,611 - List of parallel tasks(3) :['final/products.sql']
+2022-04-21 21:11:14,646 - Task execution started for tmp/item_purchase_prices.sql
+2022-04-21 21:11:14,646 - Task execution started for tmp/variant_images.sql
+2022-04-21 21:11:14,657 - Task execution started for tmp/inventory_items.sql
+2022-04-21 21:11:14,665 - Task execution started for tmp/product_images.sql
+2022-04-21 21:11:14,672 - Task execution started for tmp/product_categories.sql
+2022-04-21 21:11:22,316 - Task execution ended for tmp/variant_images.sql
+2022-04-21 21:11:22,598 - Task execution ended for tmp/item_purchase_prices.sql
+2022-04-21 21:11:23,654 - Task execution ended for tmp/product_categories.sql
+2022-04-21 21:11:23,924 - Task execution ended for tmp/product_images.sql
+2022-04-21 21:11:25,105 - Task execution ended for tmp/inventory_items.sql
+2022-04-21 21:11:25,138 - Task execution started for tmp/products.sql
+2022-04-21 21:11:25,138 - Task execution started for tmp/variants.sql
+2022-04-21 21:11:33,732 - Task execution ended for tmp/variants.sql
+2022-04-21 21:11:33,854 - Task execution ended for tmp/products.sql
+2022-04-21 21:11:33,889 - Task execution started for final/products.sql
+2022-04-21 21:11:42,447 - Task execution ended for final/products.sql
+2022-04-21 21:11:42,458 - 10.1.5.121 - - [21/Apr/2022 21:11:42] "POST /run HTTP/1.1" 200 -

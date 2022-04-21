@@ -1,0 +1,851 @@
+[I 10:05:56.028 NotebookApp] Serving notebooks from local directory: /opt/sephora
+[I 10:05:56.028 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 10:05:56.028 NotebookApp] http://ip-10-1-5-121:8081/?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d
+[I 10:05:56.028 NotebookApp]  or http://127.0.0.1:8081/?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d
+[I 10:05:56.028 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:05:56.032 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-2848136-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-1-5-121:8081/?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d
+     or http://127.0.0.1:8081/?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d
+[I 10:06:22.721 NotebookApp] 302 GET /?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d (10.1.5.244) 0.590000ms
+[I 10:06:37.906 NotebookApp] Creating new notebook in 
+[I 10:06:40.850 NotebookApp] Kernel started: 70b9a604-c75d-4e30-a440-0c6552ab6161, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: cf47b7d0-4072-40e2-87bb-3ef16a26d35a
+[I 10:08:40.927 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:10:41.158 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:12:40.964 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:14:40.951 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:16:41.164 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:40:41.268 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:04:11.505 NotebookApp] WebSocket ping timeout after 119889 ms.
+[I 13:04:16.523 NotebookApp] Starting buffering for 70b9a604-c75d-4e30-a440-0c6552ab6161:c4b204f5c9e142d5b5ecba35b9263182
+[I 14:34:41.035 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:36:41.202 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:40:41.229 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:42:40.958 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:44:40.946 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:45:17.655 NotebookApp] Restoring connection for 70b9a604-c75d-4e30-a440-0c6552ab6161:c4b204f5c9e142d5b5ecba35b9263182
+[I 14:46:40.940 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:48:41.215 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:56:41.082 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:58:40.969 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:00:40.953 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:02:40.947 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:08:41.110 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:10:40.952 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:11:14.457 NotebookApp] Kernel interrupted: 70b9a604-c75d-4e30-a440-0c6552ab6161
+[I 15:11:18.708 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:11:21.257 NotebookApp] Starting buffering for 70b9a604-c75d-4e30-a440-0c6552ab6161:c4b204f5c9e142d5b5ecba35b9263182
+[I 15:11:24.464 NotebookApp] Kernel shutdown: 70b9a604-c75d-4e30-a440-0c6552ab6161
+[W 15:11:26.648 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:11:27.009 NotebookApp] Kernel started: 86dfe81e-db02-4032-9e65-80da47d6aeed, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ccda1cd6-b8d4-4c11-be11-a181b8b44a05
+[I 15:13:27.320 NotebookApp] Saving file at /Untitled.ipynb
+[W 15:13:27.321 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:19:27.411 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:21:27.076 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:23:27.092 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:25:27.075 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:27:27.206 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:29:27.246 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:31:27.209 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:45:27.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:47:27.214 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:49:27.113 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:57:27.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:05:27.243 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:07:27.087 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:09:27.134 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:11:27.263 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:13:27.087 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:15:27.108 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:19:27.241 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:25:27.160 NotebookApp] Saving file at /Untitled.ipynb
+[W 19:21:27.209 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:21:27.209 NotebookApp] '_xsrf' argument missing from POST
+[W 19:21:27.209 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 68.280000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:23:27.279 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:23:27.279 NotebookApp] '_xsrf' argument missing from POST
+[W 19:23:27.280 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 1.370000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:25:27.271 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:25:27.271 NotebookApp] '_xsrf' argument missing from POST
+[W 19:25:27.271 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 4.550000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:27:27.262 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:27:27.262 NotebookApp] '_xsrf' argument missing from POST
+[W 19:27:27.262 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 14.330000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:29:27.278 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:29:27.278 NotebookApp] '_xsrf' argument missing from POST
+[W 19:29:27.279 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 1.370000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:31:27.263 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:31:27.263 NotebookApp] '_xsrf' argument missing from POST
+[W 19:31:27.263 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 2.260000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:33:27.287 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:33:27.287 NotebookApp] '_xsrf' argument missing from POST
+[W 19:33:27.288 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 1.300000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:35:27.261 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:35:27.262 NotebookApp] '_xsrf' argument missing from POST
+[W 19:35:27.262 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 3.320000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:37:27.260 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:37:27.260 NotebookApp] '_xsrf' argument missing from POST
+[W 19:37:27.260 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 1.440000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:39:27.293 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:39:27.293 NotebookApp] '_xsrf' argument missing from POST
+[W 19:39:27.294 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 1.330000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:41:27.255 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:41:27.256 NotebookApp] '_xsrf' argument missing from POST
+[W 19:41:27.256 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 2.790000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:43:27.256 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:43:27.257 NotebookApp] '_xsrf' argument missing from POST
+[W 19:43:27.269 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 14.800000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:45:27.265 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:45:27.265 NotebookApp] '_xsrf' argument missing from POST
+[W 19:45:27.265 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 2.350000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:47:27.315 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:47:27.315 NotebookApp] '_xsrf' argument missing from POST
+[W 19:47:27.316 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 20.430000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:49:27.287 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:49:27.287 NotebookApp] '_xsrf' argument missing from POST
+[W 19:49:27.287 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 14.210000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[W 19:51:27.132 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244): '_xsrf' argument missing from POST
+[W 19:51:27.133 NotebookApp] '_xsrf' argument missing from POST
+[W 19:51:27.133 NotebookApp] 403 PUT /api/contents/Untitled.ipynb (10.1.5.244) 4.120000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[I 19:53:27.174 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:55:27.345 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:57:27.285 NotebookApp] Saving file at /Untitled.ipynb
+[W 20:27:57.650 NotebookApp] WebSocket ping timeout after 119935 ms.
+[I 20:28:02.653 NotebookApp] Starting buffering for 86dfe81e-db02-4032-9e65-80da47d6aeed:a41a42499d024ab084b30ecbb91a9b2b
+[I 20:28:55.279 NotebookApp] Restoring connection for 86dfe81e-db02-4032-9e65-80da47d6aeed:a41a42499d024ab084b30ecbb91a9b2b
+[I 20:41:27.374 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:43:27.303 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:55:27.337 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:05:27.350 NotebookApp] Saving file at /Untitled.ipynb
+[W 22:15:25.280 NotebookApp] WebSocket ping timeout after 119926 ms.
+[I 22:15:30.283 NotebookApp] Starting buffering for 86dfe81e-db02-4032-9e65-80da47d6aeed:a41a42499d024ab084b30ecbb91a9b2b
+[I 23:26:08.308 NotebookApp] Restoring connection for 86dfe81e-db02-4032-9e65-80da47d6aeed:a41a42499d024ab084b30ecbb91a9b2b
+[W 23:40:38.312 NotebookApp] WebSocket ping timeout after 119918 ms.
+[I 23:40:43.314 NotebookApp] Starting buffering for 86dfe81e-db02-4032-9e65-80da47d6aeed:a41a42499d024ab084b30ecbb91a9b2b
+[I 08:24:10.318 NotebookApp] 302 GET /?token=ccbe53c9fdcefe04c827b7537bf5d07dff5b0b364fb17b8d (10.1.5.5) 0.580000ms
+[W 08:24:15.794 NotebookApp] Notebook Untitled.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 05c8e738-9385-414e-aeae-92e7e65cfadc
+[I 08:26:16.692 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:26:16.693 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:28:16.283 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:28:16.284 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:30:16.583 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:30:16.583 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:38:16.440 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:38:16.440 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:40:16.561 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:40:16.561 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:42:16.567 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:42:16.567 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:46:16.271 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:46:16.271 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:48:16.301 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:48:16.302 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 08:58:16.478 NotebookApp] Saving file at /Untitled.ipynb
+[W 08:58:16.478 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:00:04.666 NotebookApp] Kernel interrupted: 86dfe81e-db02-4032-9e65-80da47d6aeed
+[I 09:00:06.677 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:00:06.677 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:00:10.769 NotebookApp] Starting buffering for 86dfe81e-db02-4032-9e65-80da47d6aeed:204e2be66c134a348c0277e7cfc4bf78
+[I 09:00:14.688 NotebookApp] Kernel shutdown: 86dfe81e-db02-4032-9e65-80da47d6aeed
+[W 09:00:18.375 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:00:18.846 NotebookApp] Kernel started: 738524d5-b81a-4296-8c12-01abda13fd90, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 88823493-5b33-4d50-8dfd-f1eb9b7afd80
+[I 09:02:19.008 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:02:19.009 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:04:19.577 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:04:19.577 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:08:19.600 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:08:19.600 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:10:19.574 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:10:19.574 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:12:18.923 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:12:18.923 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:16:18.993 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:16:18.993 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:20:18.924 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:20:18.925 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:22:19.569 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:22:19.570 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:24:18.942 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:24:18.943 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:26:18.935 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:26:18.935 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:28:18.944 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:28:18.944 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:30:18.938 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:30:18.939 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:32:18.941 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:32:18.941 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:46:19.123 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:46:19.123 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:48:19.583 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:48:19.584 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:50:18.941 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:50:18.942 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:52:18.940 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:52:18.940 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:54:18.940 NotebookApp] Saving file at /Untitled.ipynb
+[W 09:54:18.941 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:00:19.136 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:00:19.136 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:02:18.934 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:02:18.935 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:04:18.946 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:04:18.946 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:06:20.929 NotebookApp] Creating new notebook in 
+[I 10:06:22.211 NotebookApp] Kernel started: a6947848-d558-450d-b28e-0f510e21721e, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1ab91955-c95c-4ff6-9a8a-494561b250a9
+[I 10:06:45.890 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:08:18.960 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:08:18.961 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:08:22.586 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:10:22.322 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:12:22.614 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:14:22.324 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:16:22.287 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:20:18.978 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:20:18.978 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:20:22.593 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:22:18.947 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:22:18.948 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:24:18.965 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:24:18.965 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:24:22.643 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:26:22.312 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:28:22.301 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:30:22.316 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:32:22.285 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:34:22.291 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:36:22.593 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:00:22.289 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:02:22.320 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:04:19.640 NotebookApp] Saving file at /Untitled.ipynb
+[W 11:04:19.640 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:06:18.947 NotebookApp] Saving file at /Untitled.ipynb
+[W 11:06:18.947 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:08:19.611 NotebookApp] Saving file at /Untitled.ipynb
+[W 11:08:19.611 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:08:22.338 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:10:18.949 NotebookApp] Saving file at /Untitled.ipynb
+[W 11:10:18.949 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:10:22.605 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:12:19.598 NotebookApp] Saving file at /Untitled.ipynb
+[W 11:12:19.599 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:12:22.309 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:14:22.626 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:16:22.293 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:18:22.320 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:20:22.303 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:22:22.297 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:24:22.320 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:26:22.596 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:52:22.390 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:54:22.333 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:56:22.334 NotebookApp] Saving file at /Untitled1.ipynb
+[I 11:58:22.296 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:00:22.304 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:02:22.308 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:04:22.312 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:06:22.316 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:08:22.319 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:09:06.483 NotebookApp] Starting buffering for 738524d5-b81a-4296-8c12-01abda13fd90:a1fc82e52b154b84b4efa7dc166a800c
+[I 12:09:10.602 NotebookApp] Kernel shutdown: 738524d5-b81a-4296-8c12-01abda13fd90
+[I 12:10:22.652 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:12:22.346 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:14:22.320 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:16:22.322 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:18:22.638 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:18:27.830 NotebookApp] delete /sephora-test-347812.log
+[W 12:18:36.774 NotebookApp] 404 GET /edit/sephora-test-347812.log (10.1.5.5): File does not exist: sephora-test-347812.log
+[W 12:18:36.886 NotebookApp] 404 GET /edit/sephora-test-347812.log (10.1.5.5) 112.500000ms referer=http://ip-10-1-5-121:8081/tree
+[I 12:20:22.317 NotebookApp] Saving file at /Untitled1.ipynb
+[I 12:20:37.564 NotebookApp] Kernel shutdown: a6947848-d558-450d-b28e-0f510e21721e
+[I 12:20:37.811 NotebookApp] Starting buffering for a6947848-d558-450d-b28e-0f510e21721e:050c2f229f5748f48cf99be4b481567d
+[I 12:20:37.817 NotebookApp] Kernel shutdown: a6947848-d558-450d-b28e-0f510e21721e
+[E 12:20:37.817 NotebookApp] Uncaught exception DELETE /api/sessions/6e9c5531-e598-407f-8924-0510ea4a8e79 (10.1.5.5)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/6e9c5531-e598-407f-8924-0510ea4a8e79', version='HTTP/1.1', remote_ip='10.1.5.5')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 12:20:37.822 NotebookApp] Unhandled error
+[E 12:20:37.823 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/Untitled1.ipynb?kernel_name=python3",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 12:20:37.823 NotebookApp] 500 DELETE /api/sessions/6e9c5531-e598-407f-8924-0510ea4a8e79 (10.1.5.5) 7.560000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled1.ipynb?kernel_name=python3
+[I 12:20:57.616 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:21:11.361 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:21:11.605 NotebookApp] Kernel started: 0aaaade8-bfe7-440c-8f0d-e6332f06ac38, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: f9edeaf0-9821-474c-9302-0769268e2cc4
+[I 12:23:11.704 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:23:11.704 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:25:12.614 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:25:12.614 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:27:12.625 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:27:12.625 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:35:11.689 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:35:11.690 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:37:11.676 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:37:11.676 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:38:18.112 NotebookApp] Saving file at /Untitled1.ipynb
+[W 12:38:18.113 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:15:12.710 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:15:12.710 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:21:11.873 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:21:11.873 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:23:11.708 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:23:11.708 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:25:11.704 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:25:11.704 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:27:11.744 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:27:11.744 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:29:12.650 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:29:12.651 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[W 13:29:28.438 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:29:29.012 NotebookApp] Kernel started: 2b8705e6-2d66-4e4e-bdb6-5322b6afd26d, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 41ea0ee5-1508-40a1-b8f2-9e9d0afc6c4c
+[I 13:29:48.486 NotebookApp] Kernel shutdown: 2b8705e6-2d66-4e4e-bdb6-5322b6afd26d
+[I 13:29:48.754 NotebookApp] Starting buffering for 2b8705e6-2d66-4e4e-bdb6-5322b6afd26d:13619ef3f46342e39fb2389c7cfdd4d7
+[I 13:29:48.757 NotebookApp] Kernel shutdown: 2b8705e6-2d66-4e4e-bdb6-5322b6afd26d
+[E 13:29:48.757 NotebookApp] Uncaught exception DELETE /api/sessions/64965595-711c-49da-b16c-5a03564c9c52 (10.1.5.5)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/64965595-711c-49da-b16c-5a03564c9c52', version='HTTP/1.1', remote_ip='10.1.5.5')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 13:29:48.772 NotebookApp] Unhandled error
+[E 13:29:48.772 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 13:29:48.772 NotebookApp] 500 DELETE /api/sessions/64965595-711c-49da-b16c-5a03564c9c52 (10.1.5.5) 17.240000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[I 13:31:12.645 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:31:12.645 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:39:11.809 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:39:11.810 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:41:11.697 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:41:11.697 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:41:41.069 NotebookApp] Saving file at /Untitled1.ipynb
+[W 13:41:41.069 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 13:42:14.174 NotebookApp] Saving file at /sephora_sde_test.ipynb
+[W 13:42:14.174 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[W 13:42:21.640 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[I 13:49:03.115 NotebookApp] Saving file at /sephora_sde_test.ipynb
+[W 13:49:03.115 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[W 13:49:31.042 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[W 13:57:27.489 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:57:28.045 NotebookApp] Kernel started: 6ded69db-d02f-4062-b0c3-9fd9505d28b3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 568ecb2b-ab00-4b0e-91d4-f493cd8e6937
+[I 13:59:28.795 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:59:28.795 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 14:01:28.320 NotebookApp] Saving file at /Untitled.ipynb
+[W 14:01:28.320 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 14:02:57.428 NotebookApp] Saving file at /sephora_sde_test.ipynb
+[W 14:02:57.429 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[W 14:03:04.694 NotebookApp] Notebook sephora_sde_test.ipynb is not trusted
+[I 14:12:07.481 NotebookApp] Starting buffering for 6ded69db-d02f-4062-b0c3-9fd9505d28b3:caf0fda6e36b46ffb81be8583348d63a
+[I 14:29:11.731 NotebookApp] Saving file at /pipeline.ipynb
+[W 14:29:11.731 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 14:31:12.656 NotebookApp] Saving file at /pipeline.ipynb
+[W 14:31:12.656 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 14:42:03.651 NotebookApp] Saving file at /pipeline.ipynb
+[W 14:42:03.651 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 14:43:02.915 NotebookApp] Saving file at /pipeline.ipynb
+[W 14:43:02.948 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 14:43:14.728 NotebookApp] Copying pipeline.ipynb to 
+[W 14:43:14.730 NotebookApp] Notebook pipeline.ipynb is not trusted
+[W 14:43:14.730 NotebookApp] Notebook pipeline-Copy1.ipynb is not trusted
+[W 14:43:22.055 NotebookApp] Notebook pipeline-Copy1.ipynb is not trusted
+[I 14:43:22.731 NotebookApp] Kernel started: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b, name: python3
+[I 14:43:23.126 NotebookApp] Kernel shutdown: 6ded69db-d02f-4062-b0c3-9fd9505d28b3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 90afe554-9ca8-42fa-bf8a-309be0b800a1
+[I 14:44:13.299 NotebookApp] Starting buffering for 0aaaade8-bfe7-440c-8f0d-e6332f06ac38:3fb497b284684ff88040e9965f1070db
+[I 14:45:22.640 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 14:47:22.624 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[W 14:47:30.817 NotebookApp] Notebook pipeline.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 640207fd-1b39-4f6e-bba0-b0b9aca86584
+[I 14:47:58.769 NotebookApp] Saving file at /pipeline.ipynb
+[W 14:47:58.769 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 14:48:33.211 NotebookApp] Starting buffering for 0aaaade8-bfe7-440c-8f0d-e6332f06ac38:6e3daf6164de41c381bd66bcf5712862
+Traceback (most recent call last):
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel_launcher.py", line 17, in <module>
+    app.launch_new_instance()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 845, in launch_instance
+    app.initialize(argv)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 88, in inner
+    return method(app, *args, **kwargs)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 666, in initialize
+    self.init_sockets()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 307, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 244, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 220, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/zmq/sugar/socket.py", line 214, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 540, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+Traceback (most recent call last):
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel_launcher.py", line 17, in <module>
+    app.launch_new_instance()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 845, in launch_instance
+    app.initialize(argv)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 88, in inner
+    return method(app, *args, **kwargs)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 666, in initialize
+    self.init_sockets()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 307, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 244, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 220, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/zmq/sugar/socket.py", line 214, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 540, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+Traceback (most recent call last):
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel_launcher.py", line 17, in <module>
+    app.launch_new_instance()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 845, in launch_instance
+    app.initialize(argv)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/traitlets/config/application.py", line 88, in inner
+    return method(app, *args, **kwargs)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 666, in initialize
+    self.init_sockets()
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 307, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 244, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 220, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/opt/sephora/sephora_test/lib/python3.8/site-packages/zmq/sugar/socket.py", line 214, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 540, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 15:07:22.726 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:09:22.770 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:11:22.596 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:12:45.183 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 15:13:22.614 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[W 15:13:58.315 NotebookApp] Notebook pipeline.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 3dc1cf8e-4f54-49a0-b364-de5151abfa46
+[W 15:14:04.982 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 15:15:06.742 NotebookApp] Starting buffering for 0aaaade8-bfe7-440c-8f0d-e6332f06ac38:ecab8c5a04ea4e17884b6fc74dcdc3ef
+[I 15:15:22.601 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:17:22.667 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:23:22.761 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:25:24.102 NotebookApp] Uploading file to /input_jsonfile.json
+[I 15:37:22.680 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:38:42.530 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 15:39:22.622 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:44:23.263 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 15:45:22.614 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:47:22.649 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:50:19.247 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 15:51:22.627 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:51:32.217 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 15:52:40.201 NotebookApp] Saving file at /pipeline.py
+[I 15:53:17.808 NotebookApp] Saving file at /pipeline.py
+[I 15:53:22.610 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:55:22.660 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:57:22.672 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:59:22.654 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 15:59:41.222 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:00:50.879 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:01:22.623 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:03:22.698 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:04:47.309 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:05:22.652 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:05:35.153 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:06:50.158 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:07:22.627 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:10:11.494 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:10:57.758 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:11:22.676 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:15:02.196 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:15:22.678 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:15:23.249 NotebookApp] Kernel shutdown: 0aaaade8-bfe7-440c-8f0d-e6332f06ac38
+[I 16:15:30.275 NotebookApp] Starting buffering for 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b:a65aa3e717ac4f9084b2936e6f07892d
+[W 16:15:30.911 NotebookApp] Notebook pipeline-Copy1.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a50b0ac6-c4a6-4f99-b19e-90d7455ed9d7
+[I 16:16:15.287 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:17:31.233 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:18:30.674 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:19:31.694 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:21:25.043 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:21:31.672 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:24:19.893 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:25:30.924 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:25:31.228 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:26:29.949 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:27:15.108 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:27:31.186 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[W 16:28:11.834 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 16:28:12.219 NotebookApp] Kernel started: e93bfa2c-c7f6-4b39-b976-f414b5b406e0, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 82b58bd3-661d-4942-a658-a27f0c95cbf1
+[I 16:29:31.703 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:30:12.688 NotebookApp] Saving file at /pipeline.ipynb
+[W 16:30:12.688 NotebookApp] Notebook pipeline.ipynb is not trusted
+[W 16:31:45.926 NotebookApp] WebSocket ping timeout after 119888 ms.
+[I 16:31:50.928 NotebookApp] Starting buffering for e93bfa2c-c7f6-4b39-b976-f414b5b406e0:d50c290093ea477687d279e340b71a29
+[W 16:32:01.249 NotebookApp] WebSocket ping timeout after 119846 ms.
+[I 16:32:06.250 NotebookApp] Starting buffering for 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b:710249d2aebd49428f18fea7415e4ef0
+[I 16:33:36.377 NotebookApp] Restoring connection for e93bfa2c-c7f6-4b39-b976-f414b5b406e0:d50c290093ea477687d279e340b71a29
+[I 16:33:36.539 NotebookApp] Restoring connection for 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b:710249d2aebd49428f18fea7415e4ef0
+[I 16:34:12.277 NotebookApp] Saving file at /pipeline.ipynb
+[W 16:34:12.277 NotebookApp] Notebook pipeline.ipynb is not trusted
+[W 16:34:26.813 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:34:27.496 NotebookApp] Kernel started: bca5d64e-64ef-4c23-aef1-50d4bbb2d022, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 97542d0f-bf21-47b4-bc82-c6446253a96d
+[I 16:36:12.182 NotebookApp] Saving file at /pipeline.ipynb
+[W 16:36:12.183 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 16:37:41.483 NotebookApp] Saving file at /pipeline.ipynb
+[W 16:37:46.233 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 16:47:53.959 NotebookApp] Starting buffering for e93bfa2c-c7f6-4b39-b976-f414b5b406e0:d50c290093ea477687d279e340b71a29
+[I 16:47:59.282 NotebookApp] Kernel interrupted: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:49:24.193 NotebookApp] Kernel shutdown: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[I 16:49:24.209 NotebookApp] Kernel shutdown: e93bfa2c-c7f6-4b39-b976-f414b5b406e0
+[I 16:49:24.210 NotebookApp] Kernel shutdown: bca5d64e-64ef-4c23-aef1-50d4bbb2d022
+[I 16:49:24.501 NotebookApp] Starting buffering for bca5d64e-64ef-4c23-aef1-50d4bbb2d022:8ab47287d5cf416a883a08909c5bcca1
+[I 16:49:24.518 NotebookApp] Kernel shutdown: bca5d64e-64ef-4c23-aef1-50d4bbb2d022
+[E 16:49:24.519 NotebookApp] Uncaught exception DELETE /api/sessions/66684a22-c41e-41a7-a416-6eed8c05e8f5 (10.1.5.198)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/66684a22-c41e-41a7-a416-6eed8c05e8f5', version='HTTP/1.1', remote_ip='10.1.5.198')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 16:49:24.519 NotebookApp] Unhandled error
+[E 16:49:24.520 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 16:49:24.520 NotebookApp] 500 DELETE /api/sessions/66684a22-c41e-41a7-a416-6eed8c05e8f5 (10.1.5.198) 2.990000ms referer=http://ip-10-1-5-121:8081/notebooks/Untitled.ipynb
+[I 16:49:27.934 NotebookApp] Starting buffering for 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b:710249d2aebd49428f18fea7415e4ef0
+[I 16:49:27.937 NotebookApp] Kernel shutdown: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[E 16:49:27.937 NotebookApp] Uncaught exception DELETE /api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77 (10.1.5.198)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77', version='HTTP/1.1', remote_ip='10.1.5.198')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 16:49:27.950 NotebookApp] Unhandled error
+[E 16:49:27.951 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 16:49:27.951 NotebookApp] 500 DELETE /api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77 (10.1.5.198) 15.820000ms referer=http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb
+[I 16:49:29.568 NotebookApp] Kernel shutdown: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[E 16:49:29.568 NotebookApp] Uncaught exception DELETE /api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77 (10.1.5.198)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77', version='HTTP/1.1', remote_ip='10.1.5.198')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 16:49:29.568 NotebookApp] Unhandled error
+[E 16:49:29.569 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 16:49:29.569 NotebookApp] 500 DELETE /api/sessions/bd4ebfa3-6f8e-4be8-8dad-a6a891f48b77 (10.1.5.198) 2.410000ms referer=http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb
+[I 16:49:31.202 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[W 16:50:09.369 NotebookApp] 404 POST /api/kernels/1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b/interrupt (10.1.5.198): Kernel does not exist: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[W 16:50:09.369 NotebookApp] Kernel does not exist: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[W 16:50:09.370 NotebookApp] 404 POST /api/kernels/1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b/interrupt (10.1.5.198) 1.370000ms referer=http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb
+[W 16:50:11.806 NotebookApp] 404 POST /api/kernels/1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b/interrupt (10.1.5.198): Kernel does not exist: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[W 16:50:11.806 NotebookApp] Kernel does not exist: 1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b
+[W 16:50:11.806 NotebookApp] 404 POST /api/kernels/1f3f17e6-1d46-4bb3-b2e5-cee15bf94b6b/interrupt (10.1.5.198) 1.380000ms referer=http://ip-10-1-5-121:8081/notebooks/pipeline-Copy1.ipynb
+[I 16:50:30.451 NotebookApp] Kernel started: 137da546-a810-4aef-ad32-1a8426049bbc, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: edc447d4-5777-4044-8aff-c8a166f29da3
+[I 16:52:30.535 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 16:52:45.362 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 16:54:30.541 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:36:30.647 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:37:43.012 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:37:51.665 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:37:53.026 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:37:59.612 NotebookApp] Starting buffering for 137da546-a810-4aef-ad32-1a8426049bbc:fa6d71a77ef6475b9d055428bc7f6c94
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: ccfc44c6-f720-40ea-a8e9-e8f6f0ac5dfc
+[I 19:40:01.783 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:40:04.372 NotebookApp] Saving file at /sephora-test-347812.log
+[I 19:40:06.492 NotebookApp] Saving file at /sephora-test-347812.log
+[I 19:40:11.299 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:42:01.150 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:42:46.562 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:44:01.155 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:45:23.063 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:46:01.714 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:46:51.752 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:48:01.723 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:52:01.150 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 19:52:06.949 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 19:54:01.165 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 20:06:57.862 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 20:08:01.784 NotebookApp] Saving file at /pipeline-Copy1.ipynb
+[I 20:08:54.836 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 20:10:01.183 NotebookApp] Saving file at /app_api.ipynb
+[I 20:10:01.548 NotebookApp] Saving file at /app_api.ipynb
+[I 20:14:01.159 NotebookApp] Saving file at /app_api.ipynb
+[I 20:14:44.107 NotebookApp] Saving file at /app_api.ipynb
+[I 20:15:33.191 NotebookApp] Saving file at /app_api.ipynb
+[W 20:17:31.006 NotebookApp] Notebook pipeline.ipynb is not trusted
+[I 20:17:31.304 NotebookApp] Kernel started: 38c06878-2e77-4621-aca2-716ff2d72f79, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a667409c-687d-4004-8b72-1fd88f434b26
+[I 20:37:27.835 NotebookApp] Starting buffering for 38c06878-2e77-4621-aca2-716ff2d72f79:b0fcfdbe783c46c5844c8542cafd3ffd
+[I 20:37:29.033 NotebookApp] Starting buffering for 137da546-a810-4aef-ad32-1a8426049bbc:919454939ea54b2d8e6d0a47b0b8ea93
+[W 20:37:37.429 NotebookApp] Notebook pipeline.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 879690d0-3a3d-4502-83bb-1bb57a7ef279
+[I 20:37:58.901 NotebookApp] Saving file at /pipeline.ipynb
+[I 20:41:37.737 NotebookApp] Saving file at /pipeline.ipynb
+[I 20:42:13.260 NotebookApp] Saving file at /pipeline.ipynb
+[W 20:42:13.364 NotebookApp] Notebook pipeline.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: fecef5ca-39eb-4865-817b-f293a1d95bf8
+[I 20:43:29.239 NotebookApp] Kernel interrupted: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 20:43:35.185 NotebookApp] Saving file at /app_api.ipynb
+[W 20:43:35.567 NotebookApp] Notebook app_api.ipynb is not trusted
+[W 20:44:36.396 NotebookApp] delete /Untitled.ipynb
+[W 20:48:58.236 NotebookApp] delete /sephora_sde_test.py
+[I 20:49:22.494 NotebookApp] Kernel shutdown: 137da546-a810-4aef-ad32-1a8426049bbc
+[I 20:49:22.761 NotebookApp] Starting buffering for 137da546-a810-4aef-ad32-1a8426049bbc:693404d7592540ba85f915741f489446
+[I 20:49:22.763 NotebookApp] Kernel shutdown: 137da546-a810-4aef-ad32-1a8426049bbc
+[E 20:49:22.763 NotebookApp] Uncaught exception DELETE /api/sessions/a3542b99-ed90-4c98-87ef-72dabe071575 (10.1.5.198)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/a3542b99-ed90-4c98-87ef-72dabe071575', version='HTTP/1.1', remote_ip='10.1.5.198')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 20:49:22.764 NotebookApp] Unhandled error
+[E 20:49:22.764 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/app_api.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 20:49:22.764 NotebookApp] 500 DELETE /api/sessions/a3542b99-ed90-4c98-87ef-72dabe071575 (10.1.5.198) 2.700000ms referer=http://ip-10-1-5-121:8081/notebooks/app_api.ipynb
+[I 20:49:23.371 NotebookApp] Kernel shutdown: 38c06878-2e77-4621-aca2-716ff2d72f79
+[I 20:49:24.158 NotebookApp] Starting buffering for 38c06878-2e77-4621-aca2-716ff2d72f79:780e464d569c4db3bac615896a524d6e
+[I 20:49:24.242 NotebookApp] Kernel shutdown: 38c06878-2e77-4621-aca2-716ff2d72f79
+[E 20:49:24.242 NotebookApp] Uncaught exception DELETE /api/sessions/630cb74b-1775-4ecc-a97b-7e75e5fc5a6c (10.1.5.198)
+    HTTPServerRequest(protocol='http', host='ip-10-1-5-121:8081', method='DELETE', uri='/api/sessions/630cb74b-1775-4ecc-a97b-7e75e5fc5a6c', version='HTTP/1.1', remote_ip='10.1.5.198')
+    Traceback (most recent call last):
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/opt/sephora/sephora_test/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 20:49:24.243 NotebookApp] Unhandled error
+[E 20:49:24.276 NotebookApp] {
+      "Host": "ip-10-1-5-121:8081",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://ip-10-1-5-121:8081/notebooks/pipeline.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+    }
+[E 20:49:24.276 NotebookApp] 500 DELETE /api/sessions/630cb74b-1775-4ecc-a97b-7e75e5fc5a6c (10.1.5.198) 36.210000ms referer=http://ip-10-1-5-121:8081/notebooks/pipeline.ipynb
+[W 20:53:29.350 NotebookApp] delete /input_jsonfile.json
+[I 21:10:37.385 NotebookApp] Saving file at /sephora-test-347812.log

@@ -1,0 +1,4 @@
+{"tmp/variants.sql": ["tmp/item_purchase_prices.sql","tmp/variant_images.sql","tmp/inventory_items.sql"],
+    "tmp/products.sql":["tmp/product_images.sql","tmp/product_categories.sql"],
+    "tmp/variants.sql":["tmp/item_purchase_prices.sql","tmp/variant_images.sql","tmp/inventory_items.sql"],
+    "final/products.sql":["tmp/products.sql","tmp/variants.sql"]}
