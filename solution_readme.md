@@ -76,7 +76,16 @@ ii- invoke big query api to execute parsed sql query and save it to dataframe
 iii- extract dataset and table name
 
 iv- again call bigquery api to save the table (overwrite)
- 
+
+FOR THE SPECIFIC INPUT GIVEN IN THIS TEST, BELOW IS THE ORDER OF TASK EXECUTION
+
+['tmp/item_purchase_prices.sql', 'tmp/variant_images.sql', 'tmp/inventory_items.sql', 'tmp/product_images.sql', 'tmp/product_categories.sql']
+
+['tmp/variants.sql', 'tmp/products.sql']
+
+['final/products.sql']
+
+
 API CALL:
 
 1- Flask app 
