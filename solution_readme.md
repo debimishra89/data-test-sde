@@ -6,17 +6,16 @@ filename: pipeline.py
 api call filename: app_api.py
 
 HOW TO DEPLOY:
-1: untar sephora.tar.gz
-2: Use sephora_test directory to recreate the virtual environment(sephora_test)
-OR 
-1: python should be installed in the linux system
-2: create virtual environment and activate
-3: run "pip install -r requirements.txt"
+I am unable to upload python environment tar file as its size was more than 100MB. So you need to create python virtual environment using below steps
 
-Next Steps:
-4: FOR LOCAL RUN  python pipeline.py --res_dir '/opt/sephora/data-test-sde-master/res/' --log_dir '/opt/sephora/' --project_name 'sephora-test-347812' --key_path '/opt/sephora/sephora-test-347812-5fd519c10f6d.json' --tasks_json '/opt/sephora/tasks.json'
-5: For API CALL RUN: (i)python app_api.py (ii) curl -X POST 'http://10.1.5.121:8181/run'
- 
+1: Python 3.8.10 should be installed in the linux system
+2: pip3 install virtualenv
+3: create virtual environment (virtualenv sephora_test) and activate 
+4: run "pip install -r requirements.txt"
+5: FOR LOCAL RUN  python pipeline.py --res_dir '/opt/sephora/data-test-sde-master/res/' --log_dir '/opt/sephora/' --project_name 'sephora-test-347812' --key_path '/opt/sephora/sephora-test-347812-5fd519c10f6d.json' --tasks_json '/opt/sephora/tasks.json'
+6: For API CALL RUN: (i)python app_api.py (ii) curl -X POST 'http://10.1.5.121:8181/run'
+
+I have attched screenshots of successful runs. 
 
 APPROACH:
 
